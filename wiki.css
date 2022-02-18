@@ -1,0 +1,302 @@
+
+body{
+	margin:0;
+	padding:0;
+}
+.wiki{
+text-align: center;
+margin-top: 40px;
+}
+.wiki h1{
+	font-family: cursive;
+}
+
+.wikilogo
+{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.searchbox{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	height:40px;
+	border-radius:40px;
+	padding: 10px;
+	background: burlywood;
+}
+.searchbtn{
+	color:black;
+	text-decoration: none;
+	float:right; 
+	width:40px;	
+	height: 40px;
+	border-radius: 50%;
+	background:white;
+	display: flex;	
+	justify-content: center;
+	align-items: center;
+}
+.searchtxt{
+	border:none;
+	background: none;
+	float:left;
+	padding:0;
+	color:white;
+	font-size: 16px;
+	transition:0.4s;
+	line-height: 40px;
+	outline:none;
+	width: 250px;
+}
+.lang{
+	position: absolute;
+	top:25%;
+	left: 32%;
+	font-family: Arial;
+	font-size:15px;
+
+}
+.linkdesign{
+	text-decoration: none;
+}
+.linkdesign:hover{
+	text-decoration:underline;
+}
+.lang small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;	
+}
+div a{
+	margin:5px 10px;
+}
+.lang2{
+	float:right;
+	position: absolute;
+	top:25%;
+	right:  32%;
+	font-family: Arial;
+	font-size:15px;
+}
+.linkdesign2{
+	text-decoration: none;
+}
+.linkdesign2:hover{
+	text-decoration: underline;
+}
+.lang2 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang2 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang3{
+	position: absolute;
+	top: 34%;
+	left: 27%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign3{
+	text-decoration: none;
+}
+}
+.linkdesign3:hover{
+	text-decoration: underline;
+}
+.lang3 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang3 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang4{
+	position: absolute;
+	top: 34%;
+	right:27%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign4{
+	text-decoration: none;
+}
+.linkdesign4:hover{
+	text-decoration: underline;
+}
+.lang4 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang4 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang5{
+	position: absolute;
+	top: 45%;
+	left: 25%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign5{
+	text-decoration: none;
+}
+.linkdesign5:hover{
+	text-decoration: underline;
+}
+.lang5 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang5 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang6{
+	position: absolute;
+	top: 45%;
+	right: 25%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign6{
+	text-decoration: none;
+}
+.linkdesign6:hover{
+	text-decoration: underline;
+}
+.lang6 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang6 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang7{
+	position: absolute;
+	top: 56%;
+	left: 26%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign7{
+	text-decoration: none;
+}
+.linkdesign7:hover{
+	text-decoration: underline;
+}
+.lang7 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang7 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang8{
+	position: absolute;
+	top: 56%;
+	right: 26%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign8{
+	text-decoration: none;
+}
+.linkdesign8:hover{
+	text-decoration: underline;
+}
+.lang8 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang8 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang9{
+	position: absolute;
+	top: 66%;
+	left: 28%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign9{
+	text-decoration: none;
+}
+.linkdesign9:hover{
+	text-decoration: underline;
+}
+.lang9 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang9 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+.lang10{
+	position: absolute;
+	top: 66%;
+	right: 28%;
+	font-family: Arial;
+	font-size: 15px;
+}
+.linkdesign10{
+	text-decoration: none;
+}
+.linkdesign10:hover{
+	text-decoration: underline;
+}
+.lang10 small{
+color:#54595d;
+display: inline-block;
+margin-top: 8px;
+text-decoration: none;
+}
+.lang10 span{
+	text-decoration: none;
+	display: inline-block;
+	color:#54595d;
+}
+
+
